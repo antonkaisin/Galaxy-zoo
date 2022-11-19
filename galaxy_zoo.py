@@ -1,7 +1,7 @@
-#import pandas as pd
-#import requests
-#import webbrowser
-#from multiprocessing import Pool
+import pandas as pd
+import requests
+import webbrowser
+from multiprocessing import Pool
 
 num_of_galaxy = 3000
 possitions = []
